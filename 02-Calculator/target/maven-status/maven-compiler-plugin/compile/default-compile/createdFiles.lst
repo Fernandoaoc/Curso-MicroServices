@@ -1,0 +1,5 @@
+br\com\microservice\Calculator.class
+br\com\microservice\exception\ExceptionResponse.class
+br\com\microservice\MathController.class
+br\com\microservice\exception\handler\CustomizedResponseEntityExceptionHandler.class
+br\com\microservice\exception\UnsuportedMathOperation.class
